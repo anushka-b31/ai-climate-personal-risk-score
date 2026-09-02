@@ -115,13 +115,6 @@ Future Improvements
 * Personalized emergency preparedness suggestions
 * Mobile application
 
-Contributors
-
-* Anushka Basak – Frontend Development + Backend Development
-* Atreyi Som – Development + Research
-* Ankita Mandal – Development + Research
-* Anusuya Dalapati – Development + Documentation
-
 Disclaimer
 
 GeoFend AI is an educational and predictive climate-risk assessment tool. Its results are intended for awareness and informational purposes and should not be considered a substitute for official weather forecasts, emergency alerts, or government advisories.
