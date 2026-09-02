@@ -2,11 +2,15 @@ GeoFend AI – Personal Climate Risk Analyzer
 
 AI-powered climate risk analysis system that calculates personalized climate risk based on location, age, occupation, and living conditions. GeoFend AI helps users understand their exposure to climate-related hazards and provides a simple risk assessment.
 
+⸻
+
 Problem Statement
 
 Climate risks such as extreme heat, flooding, and air pollution do not affect everyone equally. A person’s location, age, occupation, housing conditions, and access to protective facilities can influence their vulnerability.
 
 GeoFend AI aims to provide a simple and accessible way for individuals to understand their personal climate vulnerability and identify the major risks they may face.
+
+⸻
 
 Solution
 
@@ -23,6 +27,8 @@ The system considers parameters such as:
 
 Based on these inputs, the system provides individual risk scores and an overall climate vulnerability assessment.
 
+⸻
+
 Key Features
 
 * Personalized climate risk assessment
@@ -35,6 +41,8 @@ Key Features
 * Fast risk calculation
 * Easy-to-understand results
 
+⸻
+
 Technology Stack
 
 * Python
@@ -45,29 +53,33 @@ Technology Stack
 * Jinja Templates
 * REST APIs
 
+⸻
+
 Installation
 
-Clone the repository:
+Clone the Repository
 
 git clone <repository-url>
 
-Move into the project folder:
+Move into the Project Folder
 
 cd GeoFend-AI
 
-Install the required dependencies:
+Install the Required Dependencies
 
 pip install -r requirements.txt
 
-Run the application:
+Run the Application
 
 python app.py
 
 Open the local URL displayed by Flask in your browser.
 
+⸻
+
 Risk Assessment
 
-GeoFend AI evaluates multiple dimensions of climate vulnerability:
+GeoFend AI evaluates multiple dimensions of climate vulnerability.
 
 Heat Risk
 
@@ -85,6 +97,8 @@ Overall Climate Risk
 
 Combines the individual risk factors into an overall assessment to provide a clearer picture of the user’s climate vulnerability.
 
+⸻
+
 Future Improvements
 
 * Integration with real-time weather and climate APIs
@@ -97,12 +111,16 @@ Future Improvements
 * Mobile application
 * Personalized emergency preparedness suggestions
 
+⸻
+
 Contributors
 
 * Anushka Basak
 * Atreyi Som
 * Ankita Mandal
 * Anusuya Dalapati
+
+⸻
 
 Disclaimer
 
